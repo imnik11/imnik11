@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on Crypto Wallets
 - 💬 Ask me about Bitcoin,Blockchain,Ethereum
-- 📫 How to reach me: Twitter [@byssuns](https://www.twitter.com/byusuns)
+- 📫 How to reach me: Twitter [@byusuns](https://www.twitter.com/byusuns)
 
 <img src="https://github-readme-stats.vercel.app/api?username=imnik11&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=576258&bg_color=ffffff">
 <!--
