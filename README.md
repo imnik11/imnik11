@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Crypto Wallets
-- 🌱 I’m currently learning golang
-- 👯 I’m looking to collaborate on Crypto Wallets
+- 🔭 I’m currently working  college Project
+- 🌱 I’m currently learning parallel programming
+- 👯 I’m looking to collaborate on Data Cleaning
 - 💬 Ask me about Bitcoin,Blockchain,Ethereum
 - 📫 How to reach me: Twitter [@byusuns](https://www.twitter.com/byusuns)
 
