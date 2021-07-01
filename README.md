@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working  college Project
-- 🌱 I’m currently learning parallel programming
-- 👯 I’m looking to collaborate on Data Cleaning
+- 🔭 I’m currently working [@uniris](https://www.uniris.io)
+- 🌱 I’m currently learning design patterns
+- 👯 I’m looking to collaborate on network penetration testing
 - 💬 Ask me about Bitcoin,Blockchain,Ethereum
 - 📫 How to reach me: Twitter [@byusuns](https://www.twitter.com/byusuns)
 
